@@ -1,0 +1,2 @@
+streamlit==1.17.0  # or the version you are using
+google-generativeai==0.1.0  # or the version you are using
